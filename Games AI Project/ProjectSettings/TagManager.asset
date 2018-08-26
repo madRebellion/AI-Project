@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - WanderArea
+  - Food
+  - Toilet
+  - Washer
+  - Boi
+  - Empty Plot
+  - Building
+  - Undefined
+  - Red Park
+  - Blue Park
+  - Yellow Park
+  - Park NE
+  - Park SE
+  - Wall
+  - Obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - unwalkable
+  - Road
+  - walkable
+  - wanderArea
+  - sleep
+  - food
+  - Toilet
+  - Washer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
